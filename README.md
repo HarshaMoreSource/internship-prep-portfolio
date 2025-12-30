@@ -1,4 +1,4 @@
-# internship-prep-portfolio
+# Internship-prep-portfolio
 
 Small projects built to prepare for an Engineering Technology Solutions internship (SharePoint / Power Platform / SQL / Azure basics).
 
